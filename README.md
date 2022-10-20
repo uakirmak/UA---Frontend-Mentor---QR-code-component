@@ -43,7 +43,7 @@ I first coded the HTML part and then moved styling the page. It took a while to 
 ### What I learned
 
 This was somewhat easy to code. I utilized a flexbox container.
-For the image file, I had to use an URL link rather than a relative link.
+For the image file, I had to update the URL link several times for it to work. Tried relaitve and direct links. It seems to be working now.
 
 
 ### Continued development
